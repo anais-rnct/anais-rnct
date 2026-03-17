@@ -1,6 +1,6 @@
 class Anais:
     def __init__(self):
-        self.name        = "Anaïs Renauct"
+        self.name        = "Anaïs Renonciat"
         self.github      = "anais-rnct"
         self.status      = "En recherche d'alternance — Cybersécurité"
         self.location    = "Île-de-France, France"
