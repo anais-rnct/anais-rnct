@@ -1,16 +1,12 @@
-## Hi there 👋
+class Anais:
+    def __init__(self):
+        self.name        = "Anaïs Renauct"
+        self.github      = "anais-rnct"
+        self.status      = "En recherche d'alternance — Cybersécurité"
+        self.location    = "Île-de-France, France"
+        self.languages   = ["Python", "Java", "JavaScript", "HTML/CSS"]
+        self.interests   = ["Cybersécurité", "Green AI", "Développement Web"]
+        self.currently   = "Construire des outils pour mesurer l'impact carbone des IA"
 
-<!--
-**anais-rnct/anais-rnct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def ambition(self):
+        return "Créer pour progresser"
